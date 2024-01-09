@@ -1,0 +1,12 @@
+ArchiveRoot: '/archive/PLATO/IAS/'
+TimeStart: '2023-09-26T06:48:03'
+TimeEnd:  '2023-09-26T09:39:42'
+CamID: 'FM4'
+OBSID: 1694
+ComplRange: [-70, -90] # °C
+# the following cab be one of any parameter inclyded in the csv headers not ending with "_ts":
+# Examples
+# For TCS-HK  
+
+
+Parameters: ['GTCS_TRP1_1_T','GTCS_TRP1_2_T', 'GTCS_TRP1_3_T']
